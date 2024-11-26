@@ -7,7 +7,7 @@ Inserir um print com o nome dos Alunos (dois) na execução do programa. Inserir
 
 ## Observações
 
-no "sqlite3-01" você deve utilizar os seguintes comandos no terminal (Visual Studio Code)
+Em caso der erro no "sqlite3-01" você deve utilizar os seguintes comandos no terminal (Visual Studio Code)
 
 ```
 
